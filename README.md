@@ -2,7 +2,8 @@
 
 Landing page acadêmica do ecossistema **SST Digital: Tecnologia a Serviço da Segurança**.
 
-**Repositório:** [apppoletto-etec/landingPage](https://github.com/apppoletto-etec/landingPage)
+**Repositório:** [apppoletto-etec/landingPage](https://github.com/apppoletto-etec/landingPage)  
+**Endereço online:** [https://apppoletto-etec.github.io/landingPage/](https://apppoletto-etec.github.io/landingPage/)
 
 ## Estrutura
 

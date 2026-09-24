@@ -147,6 +147,8 @@ footer p { text-align: center; margin: 0; }
 .footer-contact a:first-child span { color: #25a868; }
 .footer-contact a:last-child span { color: var(--blue); font-weight: 800; }
 .copyright { text-align: right; line-height: 1.6; }
+.footer-legal { grid-column: 1 / -1; padding: 18px 0 28px; border-top: 1px dashed rgba(0,0,0,.08); text-align: center; }
+.footer-legal p { max-width: 860px; margin: 0 auto; color: var(--muted); font-size: 11px; line-height: 1.6; opacity: .85; }
 
 .reveal { opacity: 0; transform: translateY(18px); transition: opacity .7s ease, transform .7s ease; }
 .reveal.visible { opacity: 1; transform: none; }
